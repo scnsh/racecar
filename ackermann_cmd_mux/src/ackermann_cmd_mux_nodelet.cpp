@@ -1,11 +1,3 @@
-/**
- * @file /src/ackermann_cmd_mux_nodelet.cpp
- *
- * @brief  Implementation for the ackermann command multiplexer
- *
- * License: BSD
- *   https://raw.github.com/yujinrobot/yujin_ocs/hydro/yocs_ackermann_cmd_mux/LICENSE
- **/
 /*****************************************************************************
  ** Includes
  *****************************************************************************/

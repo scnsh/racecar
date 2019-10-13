@@ -1,11 +1,3 @@
-/**
- * @file /src/ackermann_cmd_subscribers.cpp
- *
- * @brief  Subscriber handlers for the ackermann_cmd_mux
- *
- * License: BSD
- *   https://raw.github.com/yujinrobot/yujin_ocs/hydro/yocs_ackermann_cmd_mux/LICENSE
- **/
 /*****************************************************************************
  ** Includes
  *****************************************************************************/

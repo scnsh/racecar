@@ -1,11 +1,3 @@
-/**
- * @file /ackermann_cmd_mux/include/ackermann_cmd_mux/exceptions.hpp
- *
- * @brief Exception classes for ackermann_cmd_mux.
- *
- * License: BSD
- *   https://raw.github.com/yujinrobot/yujin_ocs/hydro/yocs_ackermann_cmd_mux/LICENSE
- **/
 /*****************************************************************************
 ** Ifdefs
 *****************************************************************************/

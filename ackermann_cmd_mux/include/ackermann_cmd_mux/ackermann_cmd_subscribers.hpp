@@ -1,11 +1,3 @@
-/**
- * @file /include/ackermann_cmd_mux/ackermann_cmd_subscribers.hpp
- *
- * @brief Structure for the ackermann_cmd_mux.
- *
- * License: BSD
- *   https://raw.github.com/yujinrobot/yujin_ocs/hydro/yocs_ackermann_cmd_mux/LICENSE
- **/
 /*****************************************************************************
 ** Ifdefs
 *****************************************************************************/
